@@ -1,3 +1,3 @@
 # Python-Programming
 
-<a href="https://github.com/Himanshu-Kumar-123/Python-Programming/tree/master/Problem1" target="_blank">Google</a>
+[Problem 1: Swapping 2 numbers without using the 3rd variable](/Problem1)
