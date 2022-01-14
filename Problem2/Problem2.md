@@ -6,4 +6,5 @@
   Ex -
   
   Input: 5
+  
   Output: 120
