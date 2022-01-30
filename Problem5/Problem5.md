@@ -1,10 +1,14 @@
-# Problem 3: Find the factorial of a number using recursion. 
+# Problem 5: Print the Fibonacci series up to n terms.
 
-* Take a number as Input
-* Print the factorial of that number as output.
+* Take the number of terms n as Input.
+* Print the Fibonacci series up to given n terms.
 
   Ex -
   
   Input: 5
   
-  Output: 120
+  Output: 0
+          1
+          1
+          2
+          3
