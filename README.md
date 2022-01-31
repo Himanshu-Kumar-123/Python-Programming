@@ -9,3 +9,5 @@
 [Problem 4: Check if the given number is a Armstrong number.](/Problem4)
 
 [Problem 5: Print the Fibonacci series up to n terms.](/Problem5)
+
+[Problem 6: Print the nth term of Fibonacci series.](/Problem6)
