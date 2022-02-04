@@ -11,3 +11,5 @@
 [Problem 5: Print the Fibonacci series up to n terms.](/Problem5)
 
 [Problem 6: Print the nth term of Fibonacci series.](/Problem6)
+
+[Problem 7: Check if a given year is leap year.](/Problem7)
