@@ -1,10 +1,9 @@
-# Problem 6: Print the nth term of Fibonacci series.
+# Problem 8: Print the Kth Digit.
 
-* Take n as Input.
-* Print the nth term.
+Given two numbers A and B, find K<sup>th</sup> digit from right of A<sup>B</sup>.
 
   Ex -
   
-  Input: 5
+  Input: A = 3, B = 7, K = 2
   
-  Output: 3
+  Output: 8   (3<sup>7</sup> = 2187)
