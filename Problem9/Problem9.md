@@ -1,9 +1,8 @@
-# Problem 8: Print the Kth Digit.
-
-Given two numbers A and B, find K<sup>th</sup> digit from right of A<sup>B</sup>.
+# Problem 9: Calculate the frequency of characters in the given string.
 
   Ex -
   
-  Input: A = 3, B = 7, K = 2
+  Input: "Hello world deseperate"
   
-  Output: 8   (3<sup>7</sup> = 2187)
+  Output: {'H': 1, 'e': 5, 'l': 3, 'o': 2, ' ': 2, 'w': 1, 'r': 2, 'd': 2, 's': 1, 'p': 1, 'a': 1, 't': 1}
+
