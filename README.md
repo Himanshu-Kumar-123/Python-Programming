@@ -15,3 +15,5 @@
 [Problem 7: Check if a given year is leap year.](/Problem7)
 
 [Problem 8: Print the Kth Digit.](/Problem8)
+
+[Problem 9: Calculate the frequency of characters in the given string.](/Problem9)
