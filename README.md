@@ -17,3 +17,5 @@
 [Problem 8: Print the Kth Digit.](/Problem8)
 
 [Problem 9: Calculate the frequency of characters in the given string.](/Problem9)
+
+[Problem 10: Remove the characters with frequency 2 from the given string.](/Problem10)
